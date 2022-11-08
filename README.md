@@ -6,7 +6,7 @@ I am <b>Prince Kumar</b> pursuing my <b>Computer Science and Engineering Degree<
 
 <h3 align="center"> Paasionate Web Developer  </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=PRIN1009&label=Profile%20views&color=0e75b6&style=flat" alt="Prince kumar" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
