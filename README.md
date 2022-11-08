@@ -1,10 +1,10 @@
 ![](https://github.com/NageshMandal/STARBUCKS_Landing_Page/blob/main/images/Picsart_22-09-11_12-47-19-306.jpg)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/nagesh-mandal-134b70237" target="_blank"> Nagesh Mandal </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/prince-kumar-05b448256/" target="_blank"> Prince Kumar </a></h1>
 <img width="40%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
 
-I am <b>Nagesh Mandal</b> pursuing my <b>Computer Science and Engineering Degree</b> from <b>Chaibasa Engineering College</b>, As of now, I am focused on <b>web development, Data Science and Machine Learning ,BlockChain </b> but still exploring many fields🔥
+I am <b>Prince Kumar</b> pursuing my <b>Computer Science and Engineering Degree</b> from <b>Chaibasa Engineering College</b>, As of now, I am focused on <b>web development </b> but still exploring many fields🔥
 
-<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast | BlockChain Developer | Keyboardist </h3>
+<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast | BlockChain Developer |  </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
