@@ -39,7 +39,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript . I
 </div>
  </div>
    
-   
+  <div align="center"> 
 <table align="center">
  
    <tr align="center">  
@@ -47,7 +47,8 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript . I
 </tr>
    
 </table>
-
+   </div>
+     
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princek1009&theme=dark" alt="Prince kumar" /></p>
   </div>
