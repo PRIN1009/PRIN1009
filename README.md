@@ -52,7 +52,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript . I
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princek1009&theme=dark" alt="Prince kumar" /></p>
   </div>
 
- [![princek1009's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=princek10091009&theme=xcode)](https://git.io/princek1009)
+
    
    
 
